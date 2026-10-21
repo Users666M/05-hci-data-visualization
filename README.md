@@ -27,8 +27,6 @@ python -m src.build_dashboard
 
 > Catatan: `data/alerts_with_predictions.csv` dan `reports/metrics.json` adalah keluaran dari repo `04-machine-learning-intro`, disertakan agar repo ini berdiri sendiri.
 
-## Laporan
-Lihat [`docs/studi_kasus.md`](docs/studi_kasus.md).
 
 ## Repo lain dalam rangkaian studi kasus ini
 - `01-data-analysis-and-ai`
